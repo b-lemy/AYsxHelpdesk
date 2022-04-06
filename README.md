@@ -1,12 +1,12 @@
-# AysxHelpDesk
 
-<h1 align="center">Project title</h1>
 
-# a ticketing system that will be used by the helpdesk to provide assistance to our client. This is just a simple Django helpdesk web application that I am building to solve a problem at my workplace and to better test and expand my abilities
+<h1 align="center">#AysxHelpDesk</h1>
 
 
 
-<p align="center">Project Description</p>
+
+<p align="center"># a ticketing system that will be used by the helpdesk to provide assistance to our client. This is just a simple Django helpdesk web application that I am building to solve a problem at my workplace and to better test and expand my abilities
+</p>
 
 <!-- ## Links
 
