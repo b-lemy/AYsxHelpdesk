@@ -73,7 +73,7 @@ For running the server and app together I am using concurrently this helps a lot
 
 ## Author
 
-**Rohit Jain**
+**BRIAN LEMA**
 
 - [Profile](https://github.com/b-lemy"b-lemy")
 - [Email](lemabrian1234@gmail.com "Hi!")
