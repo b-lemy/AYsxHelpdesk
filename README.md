@@ -75,7 +75,7 @@ For running the server and app together I am using concurrently this helps a lot
 
 **BRIAN LEMA**
 
-- [Profile](https://github.com/b-lemy"b-lemy")
+- [Profile](https://github.com/"b-lemy")
 - [Email](lemabrian1234@gmail.com "Hi!")
 <!-- - [Website](https://kingtechnologies.in "Welcome") -->
 
