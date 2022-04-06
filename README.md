@@ -1,6 +1,14 @@
+# AysxHelpDesk
+
+<h1 align="center">Project title</h1>
+
+# a ticketing system that will be used by the helpdesk to provide assistance to our client. This is just a simple Django helpdesk web application that I am building to solve a problem at my workplace and to better test and expand my abilities
 
 
-## Links
+
+<p align="center">Project Description</p>
+
+<!-- ## Links
 
 - [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
 
@@ -8,17 +16,11 @@
 
 - [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
 
-- [API](<API Link> "API")
+- [API](<API Link> "API") -->
 
 ## Screenshots
 
 ![Home Page](/screenshots/1.png "Home Page")
-
-
-<h1 align="center"><project-name></h1>
-
-<p align="center"><project-description></p>
-  
   
 ![](/screenshots/2.png)
 
@@ -28,35 +30,40 @@
 
 In the project directory, you can run:
 
-### `npm start" : "react-scripts start"`,
-
+### `git clone Change Directory to the Cloned Repo:"`,
+<!-- 
 The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
-You will also see any lint errors in the console.
+You will also see any lint errors in the console. -->
 
-### `"npm run build": "react-scripts build"`,
+### `"cd django-helpdesk Create Virtual Environment:"`,
 
-Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
+<!-- Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy! -->
 
-### `"npm run test": "react-scripts test"`,
+### `"virtualenv hdenv Activate Environment:
 
-Launches the test runner in the interactive watch mode.
+Windows: hdenv\Scripts\activate Linux: source hdenv/bin/activate"`,
 
-### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
+<!-- Launches the test runner in the interactive watch mode. -->
+
+### `" Install Requirments:
+
+pip install -r requirements.txt Run Migrations:"`,
+
+### `python manage.py makemigrations python manage.py migrate Run Server:`
 
 For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
 
-### `"serve": "node server"`
+### `"python manage.py runserver"`
 
-For running the server file on you can use this command.
+<!-- For running the server file on you can use this command. -->
 
-### `npm run serve`
+
 
 ## Built With
 
 - JavaScript
-- Node
-- NPM
-- Webpack
+- Python
+- Django
 - HTML
 - CSS
 
@@ -68,9 +75,9 @@ For running the server file on you can use this command.
 
 **Rohit Jain**
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+- [Profile](https://github.com/ "b-lemy")
+- [Email](lemabrian1234@gmail.com "Hi!")
+<!-- - [Website](https://kingtechnologies.in "Welcome") -->
 
 ## 🤝 Support
 
@@ -90,22 +97,3 @@ Give a ⭐️ if you like this project!
 
 
 
-
-<br> AysxHelpDesk  </br> 
-a ticketing system that will be used by the helpdesk to provide assistance to our client. This is just a simple Django helpdesk web application that I am building to solve a problem at my workplace and to better test and expand my abilities
-
-Installation Clone Repo:
-
-git clone Change Directory to the Cloned Repo:
-
-cd django-helpdesk Create Virtual Environment:
-
-virtualenv hdenv Activate Environment:
-
-Windows: hdenv\Scripts\activate Linux: source hdenv/bin/activate Install Requirments:
-
-pip install -r requirements.txt Run Migrations:
-
-python manage.py makemigrations python manage.py migrate Run Server:
-
-python manage.py runserver
